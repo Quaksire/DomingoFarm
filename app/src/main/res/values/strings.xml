@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Domingo Farm</string>
+
+    <string name="entry_activity_button_start">Start game</string>
 </resources>
