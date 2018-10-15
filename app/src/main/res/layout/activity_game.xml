@@ -5,9 +5,10 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:context=".GameActivity">
-    <TextView
-            android:text="TextView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+
+    <!-- Game board -->
+    <com.quaksire.domingofarm.view.BoardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
             android:id="@+id/textView"/>
 </RelativeLayout>

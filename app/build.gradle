@@ -28,6 +28,7 @@ dependencies {
     implementation 'androidx.arch.core:core-runtime:2.0.1-alpha01'
 
     implementation 'androidx.appcompat:appcompat:1.0.0'
+    implementation 'com.google.android.material:material:1.0.0'
 
     testImplementation 'junit:junit:4.12'
     //androidTestImplementation 'com.android.support.test:runner:1.0.2'

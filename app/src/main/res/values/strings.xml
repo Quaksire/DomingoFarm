@@ -2,4 +2,9 @@
     <string name="app_name">Domingo Farm</string>
 
     <string name="entry_activity_button_start">Start game</string>
+
+    <string name="game_activity_options_land">Land</string>
+    <string name="game_activity_options_storage">Storage</string>
+    <string name="game_activity_options_factory">Factory</string>
+    <string name="game_activity_options_house">Houses</string>
 </resources>
